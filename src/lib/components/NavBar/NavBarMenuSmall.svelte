@@ -67,7 +67,7 @@
 			  <Plus class="mr-2 h-5 w-5" />
 			  <span>Suggest Farm</span>
 			</DropdownMenu.Item> -->
-			<a href="https://dexscreener.com/pulsechain/0x9961c2652b301c4a25256db05316d2be11cebab1" target="_blank">
+			<a href="https://dexscreener.com/pulsechain/0x87791dd63ecfb326768630e7ae3a3497f295b656" target="_blank">
 				<DropdownMenu.Item>
 					<LineChart class="mr-2 h-5 w-5" />
 					<span>Price Chart</span>
@@ -76,14 +76,14 @@
 			
 		  </DropdownMenu.Group>
 		  <DropdownMenu.Separator />
-		  	<a href="http://x.com/bigjax_pls" target="_blank">
+		  	<a href="http://x.com/shaneheartwin" target="_blank">
 				<DropdownMenu.Item>
 					<User class="mr-2 h-5 w-5" />
-					<span>@bigjax_pls</span>
+					<span>@shaneheartwin</span>
 				</DropdownMenu.Item>
 			</a>
 		  
-		  <DropdownMenu.Sub>
+		  <!-- <DropdownMenu.Sub>
 			<DropdownMenu.SubTrigger>
 			  <UserPlus class="mr-2 h-5 w-5" />
 			  <span>Social Media</span>
@@ -96,7 +96,7 @@
 					</DropdownMenu.Item>
 				</a>
 			  
-			  	<a href="http://x.com/pls_LEAN" target="_blank">
+			  	<a href="http://x.com/" target="_blank">
 					<DropdownMenu.Item>
 						<Twitter class="mr-2 h-5 w-5" />
 						<span>Twitter</span>
@@ -113,7 +113,7 @@
 			  
 			  
 			</DropdownMenu.SubContent>
-		  </DropdownMenu.Sub>
+		  </DropdownMenu.Sub> -->
 		  
 		  <!-- <DropdownMenu.Item>
 			<LifeBuoy class="mr-2 h-4 w-4" />

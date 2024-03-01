@@ -1,7 +1,7 @@
 <script>
 
 	import { ArrowRight } from 'radix-icons-svelte'
-	import vegeta from '$lib/images/vegeta.png'
+	import shane from '$lib/images/shane.jpg'
 </script>
 
 <div class=" mx-auto flex relative">
@@ -45,9 +45,9 @@
 	</div>
 	<div class="hidden sm:block sm:w-2/3 lg:w-4/5 relative">
 		<img
-			class="h-auto w-full rounded-full object-cover object-center p-20"
-			src={vegeta}
-			alt="steeve"
+			class="w-max rounded-full object-cover object-center p-20"
+			src={shane}
+			alt="shane"
 		/>
 		<!-- <Pic /> -->
 	</div>

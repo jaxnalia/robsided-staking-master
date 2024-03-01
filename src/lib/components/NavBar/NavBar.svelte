@@ -53,25 +53,25 @@
 						<Button variant="link" builders={[builder]}>Social Media</Button>
 					</DropdownMenu.Trigger>
 					<DropdownMenu.Content class="w-auto">
-						<a target="_blank" href="https://t.me/plsLEAN">
+						<!-- <a target="_blank" href="https://t.me/plsLEAN">
 							<DropdownMenu.Item>
 								<Send class="h-5 w-5" />
 								<DropdownMenu.Label>Telegram</DropdownMenu.Label>
 							</DropdownMenu.Item>
-						</a>
+						</a> -->
 						<!-- <DropdownMenu.Separator /> -->
-						<a target="_blank" href="http://x.com/pls_lean">
+						<a target="_blank" href="http://x.com/shaneheartwin">
 							<DropdownMenu.Item>
 								<Twitter class="h-5 w-5" />
-								<DropdownMenu.Label>Twitter</DropdownMenu.Label>
+								<DropdownMenu.Label>@shaneheartwin</DropdownMenu.Label>
 							</DropdownMenu.Item>
 						</a>
-						<a target="_blank" href="https://github.com/LEAN-Token">
+						<!-- <a target="_blank" href="https://github.com/LEAN-Token">
 							<DropdownMenu.Item>
 								<Github class="h-5 w-5" />
 								<DropdownMenu.Label>Github</DropdownMenu.Label>
 							</DropdownMenu.Item>
-						</a>
+						</a> -->
 						<!-- <DropdownMenu.Separator /> -->
 						<!-- <a href="https://discord.gg/NRg34Rawc6" class={navItem}>
 							<DropdownMenu.Item>
