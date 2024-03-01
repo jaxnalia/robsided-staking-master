@@ -29,6 +29,7 @@
 	import pls from "$lib/images/pls.png";
 	import inc from "$lib/images/inc.png";
 	import rob from "$lib/images/rob.png";
+	import plsx from "$lib/images/plsx.png";
 
 	let earnedTokens;
 	let stakedLean;
@@ -78,7 +79,7 @@
 			<Card.Root class="backdrop-blur w-96">
 				<Card.Header class="p-5">
 					<h1 class="text-3xl font-bold">Stake</h1>
-					<Card.Title><code>ROB/WPLS LP to earn ROB 🥇</code></Card.Title>
+					<Card.Title><strong>ROB-WPLS LP</strong> & earn <strong>ROB 🥇</strong></Card.Title>
 				</Card.Header>
 				<Card.Content>
 					<Card.Description>
@@ -194,8 +195,8 @@
 		<Tabs.Content value="pools"> 
 			<Card.Root class="backdrop-blur w-96">
 				<Card.Header class="p-5">
-					<h1 class="text-3xl font-bold">Pools</h1>
-					<Card.Title><code>Stake and earn ????</code></Card.Title>
+					<h1 class="text-3xl font-bold">ROB Pools</h1>
+					<Card.Title><code>Stake LP & earn ????</code></Card.Title>
 				</Card.Header>
 				<Card.Content class="py-0 text-center">
 					<div class="flex justify-between mb-2">
@@ -204,10 +205,10 @@
 							<div style="transform: translate(0, 10px)">
 								
 								<img style="position: absolute; transform: translate(0px, 0px);" src={rob} alt="ROB" width="48">
-								<img style="position: absolute; transform: translate(0px, 0px);" src={pls} alt="WPLS" width="20">
+								<img style="position: absolute; transform: translate(0px, 0px);" src={plsx} alt="PLSX" width="20">
 							</div>
 								
-								<p>Stake <strong>ROB-WPLS</strong> Earn ????</p>
+								<p>Stake <strong>ROB-PLSX</strong> Earn ????</p>
 							
 							<Button class="p-2"><Plus /></Button>
 							<Button class="p-2"><Minus /></Button>
